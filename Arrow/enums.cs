@@ -1,0 +1,1 @@
+﻿public enum MaterialType { Steel, Wood, Obsidian, Plastic, TurkeyFeathers, GooseFeathers }
