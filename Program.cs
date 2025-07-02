@@ -1,4 +1,4 @@
-﻿Arrow arrow;
+Arrow arrow = new(ChooseArrowHeadType(), ChooseFletchingType(), ChooseShaftLength());
 
 DisplayArrowMenu();
 DisplayArrowSummary();
